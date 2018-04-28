@@ -10,7 +10,7 @@ Don't underestimate their intelligence, but don't overestimate their knowledge.
 
 ### 3) Tell a story.
 
-Be organized, but also be entertaining, in a highbrow, long-piece-in-the-New-Yorker kinda way.  Yes, this is a scientific talk, and you are absolutely not there to put on a clown costume and juggle machetes that have been doused in kerosene and set ablaze.  But you _must_ entertain people and hold their interest.  There must be a narrative arc to your talk, just like in a documentary film or a long-form piece of quality journalism.
+[Be organized](https://github.com/jgscott/talks/blob/master/md/org_methods.md), but also be entertaining, in a highbrow, long-piece-in-the-New-Yorker kinda way.  Yes, this is a scientific talk, and you are absolutely not there to put on a clown costume and juggle machetes that have been doused in kerosene and set ablaze.  But you _must_ entertain people and hold their interest.  There must be a narrative arc to your talk, just like in a documentary film or a long-form piece of quality journalism.
 
 I swear to you, people will straight up go to sleep in their chairs if you don't actively keep them awake.  And when they snore, it will actually embarrass them more than it does you, but it sure as hell won't feel that way to you at the time.  
 

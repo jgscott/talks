@@ -10,7 +10,11 @@ So you've invented a new method and now want to tell people about it.  Cool!  He
 
 I'll describe each of these sections in turn.  Again, the bias here is toward short talks, although I think the same broad outline works for long talks.  I'll mention some differences at the end.  
 
-Note: this outline won't necessarily cover _all_ methods talks.  Still, it would certainly be appropriate for most of them that I've ever seen, which is a lot.  If you have some experience giving talks, you might find some of this organizational advice to be overly prescriptive.  In that case, feel free to disregard or modify it.  But remember, my goal here is to provide a plug-and-play guide for PhD students in data-science, not for seasoned scientific communicators.  
+By way of preface, let me mention three things:   
+1) Don't forget to read my [top ten tips for giving scientific talks](https://github.com/jgscott/talks/blob/master/md/top_ten.md), which informs a lot of the advice here.  
+2) If you're talk is more about a set of empirical findings rather than a method, then the advice below won't be great.  Instead [check out my advice for a talk about scientific results.](https://github.com/jgscott/talks/blob/master/md/org_results.md)   
+3) This outline won't necessarily cover _all_ methods talks.  Still, it would certainly be appropriate for most of them that I've ever seen, which is a lot.  If you have some experience giving talks, you might find some of this organizational advice to be overly prescriptive.  In that case, feel free to disregard or modify it.  But remember, my goal here is to provide a plug-and-play guide for PhD students in data-science, not for seasoned scientific communicators.  
+
 
 ## The title slide
 
