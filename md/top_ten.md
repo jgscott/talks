@@ -58,16 +58,16 @@ Said another way, your slides should _complement_ what you say.  Occassionally t
 Since you will rely so heavily on your figures, that's where to invest a ton of time.  Even a simple scatter plot should be elegant and highly readable, with clear axis labels, a well thought-out color scheme, and so on.  This isn't a guide on how to make awesome figures, but you should learn to make awesome figures: [here](http://ggplot2.org/), perhaps, or [here.](https://d3js.org/)  
 
 
-## 8) Smile.
+### 8) Smile.
 
 Don't be manic, but do have energy and presence.  Stand up straight, engage your core, throw your shoulders back, and have positive body language.  You'll be surprised at how much better you come across.  
 
-## 9) Practice.  
+### 9) Practice.  
 
 It's like what my very first Little League coach, who also happened to be my dad, said to me when I was 6 years old.  You play like you practice.  
 
 
-## 10) Treat your talk as a gateway drug.
+### 10) Treat your talk as a gateway drug.
 
 The primary functions of your talk are to excite people about you and your work, and to funnel the especially interested ones to your paper or software package.  
 
