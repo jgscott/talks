@@ -16,8 +16,8 @@ Two notes:
 
 Before you decide how to organize your talk, [read this](md/first_thing.md).  As I said above, the bias here is towards short talks.  
 
-- [Organizing a talk about a new method.](md/org_methods.md).  
-- [Organizing a talk about new empirical findings.](md/org_results.md).  
+- [Organizing a talk about a new method.](md/org_methods.md)  
+- [Organizing a talk about new empirical findings.](md/org_results.md)  
 - Organizing a talk about new theory: sorry, I have no good advice here.  Ask a theorist!  
   
 
