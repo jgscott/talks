@@ -65,7 +65,7 @@ I also recently worked with another student, Oscar Padilla, who invented a new t
 - It exploits a key property of depth-first search on graphs.  
 - The error rate improves upon existing error bounds for noisy signals on arbitrary graphs.  
 
-I also remember a talk from Jennifer Hill at ISBA 2014 about Bayesian causal forests.  Here take-home messages went something like this:  
+I also remember a talk from Jennifer Hill at ISBA 2014 about causal inference using Bayesian ensemble methods.  Here take-home messages went something like this:  
 - Our method models both the treatment assignment and the response variable nonparametrically.  
 - It yields full posterior distributions for heterogeneous treatment effects without strong assumptions.  
 - It also provides state-of-the-art performance for estimating average treatment effects.  
