@@ -39,13 +39,13 @@ The perfect motivating example has the following properties:
 
 The archetypal "motivating example" section of a talk has three sub-parts.
 
-First, explain the scientific problem and the data set.  Ideally you can do this in no more than 2-3 slides -- on occassion maybe more, but only if the problem is really complicated _and_ those complications are essential for understanding what comes next.  (Remember, keep it simple.)  For example, one slide might describe the scientific problem (text or pictures.  A second slide might provide some key facts about your data set. (This would be a reasonable a reasonable use of a bulleted list, so that people can read some facts about it as they listen to you describe stuff.)  Then a third slide might be a picture of the data.  You might not need all three.  
+First, explain the scientific problem and the data set.  Ideally you can do this in no more than one or two slides.  This would be a reasonable a reasonable use of a bulleted list, so that people can read some key facts about the problem/data as they listen to you describe stuff.  Even better, you might be a picture of the data with those key facts listed beside it or underneath it.  On occassion you might need more slides than this, but only if the problem is really complicated _and_ those complications are essential for understanding what comes next.  The key thing is to convey a broadly accessible summary of the problem.  Make it interesting, but keep it simple.  
 
-Second, you should show the results from applying an off-the-shelf, existing method to this data.  If you can do this in one picture, great.  This is your "straw man": the thing your method should beat.
-
-In this context, you can also briefly mention other existing methods that might be appropriate for your problem, other than the one you've shown.  But this is mainly to telegraph to people that you've done your work.  You should explain that comprehensive benchmarks are the paper, and that your choice of Existing Method X on your motivating example is only intended to be illustrative.  
+Second, you should show the results from applying an off-the-shelf, existing method to this data.  If you can do this in one picture, great.  This is your "straw man": the thing your method should beat.  
 
 Third and finally, you should explain what's wrong/suboptimal with the off-the-shelf method.  This tells the audience why they should pay attention when you introduce your new method.  Again, try to do this in one slide at most.
+
+Optionally, you can also _briefly_ mention other existing methods that might be appropriate for your motivating example, other than the one you've shown.  But this is mainly to telegraph to people that you've done your scholarly homework -- which is especially important if the people who invented those other methods are likely to be in the audience.  For example, you might briefly show a slide with lots of other methods listed, and say something like: "I know there are a lot of other methods you might use on this example.  I've listed several of them up here, and we discuss all these in considerable detail in the paper.  But I'm focusing on (insert straw man here) for illustrative purposes only."  
 
 ### "I can't think of a motivating example where I can show all three of those things."   
 
