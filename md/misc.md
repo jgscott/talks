@@ -11,7 +11,7 @@
 
 - Absolutely include references, in Author (Year) format, to a few key papers where appropriate.  Especially do this if Author is in the audience!  But there is no need for extensive bibliography or lots of references.  That is what the paper is for.  Don't feel bad about saying, "There are a lot of key references that I haven't covered here, including work by X and Y, and we have a comprehensive bibiography in the paper."  Remember Commandment 10.  
 
-- Don't use your institution's logo on every slide.  Especially if your institution is famous and/or very high up in the U.S. News and World Report rankings for American undergraduate colleges, you will look like a tool.   
+- Don't use your institution's logo on every slide.  Especially if your institution is famous and/or very high up in the U.S. News and World Report rankings for American undergraduate colleges, you will look at least a little bit like a tool.   
 
 - Some of your viewers will inevitably be colorblind.  Use a color scale they can read.  
 
