@@ -14,7 +14,12 @@ Note: this outline won't necessarily cover _all_ methods talks.  Still, it would
 
 ## The title slide
 
-All this needs is the title of the talk, your name and affiliation, the names (and affiliations, if there's room) of your collaborators/funders.  Don't be a dick by failing to acknowledge your collaborators.  
+All this needs is the title of the talk, your name and affiliation, the names (and affiliations, if there's room) of your collaborators/funders.  
+
+While the title slide is showing, you should open the talk by doing three things.   
+- Introduce yourself: "Hi, I'm James Scott from the University of Texas at Austin."  
+- state your purpose.  This is like the thesis sentence for your talk.  For example: "I'm here today to talk to you about a new method called False Discovery Rate Smoothing that exploits spatial structure in large-scale multiple testing.  As I'll show you, it improves power over existing procedures, without violating the target false discovery rate.  It turns out to be pretty useful for a wide range of scientific problems."  
+- acknowledge your collaborators: "I'm grateful to my collaborators on this work, Wes Tansey of UT-Austin and Russ Poldrack and Sanmi Koyejo of Stanford."  If you have tons of collaborators listed on the screen, then still say that you're grateful to them, but maybe skip mentioning them aloud one by one.  
 
 ## One motivating example  
 
@@ -72,7 +77,7 @@ I also remember a talk from Jennifer Hill at ISBA 2014 about causal inference us
 
 I could list dozens or hundreds of examples.  The point is, you should have one slide summarizing the few key messages that you want the listener to take away from the talk.  Make specific claims that you can back up in your subsequent slides.  Some claims might be about the method itself (e.g. it's key source of advantage).  Others will be claims about its performance.  
 
-Once you've got that out of the way, you might give a "teaser" slide about your method's results for your motivating example.  After summarizing your method and it's advantages.  
+Once you've stated the take-home messages, you might give a "teaser" slide about your method's results for your motivating example.  After summarizing your method and it's advantages.  
 
 ## Description of the new method  
 
