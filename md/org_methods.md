@@ -26,11 +26,9 @@ You should assume that your audience has a default skepticism of the need for a 
 
 The perfect motivating example has the following properties:  
 - you can explain the example in a picture or two, with maybe one slide of text  
-- there is some clear off-the-shelf procedure that everybody would reach for in order to approach this problem  
+- there is some clear off-the-shelf procedure that reasonable people might reach for in order to approach this problem  
 - But there are some issues with this off-the-shelf procedure that you can articulate, or even better, see in a picture.  
 - Your method, on the hand, addresses these issues, or most of them, without trouble.  
-
-If you can't find an example satisfying these conditions, then why, exactly, did you write your methods paper?  I suppose the exception might be if you've invented a method for a brand new type of data-collection protocol in some scientific field, where there is no pre-existing state of the art for data analysis.  That's rare -- but if that describes your situation, then just explain the problem and give a concise summary of the statistical issues you found yourself needing to address.  
 
 ### Organizing your "motivating example" section  
 
@@ -38,11 +36,17 @@ The archetypal "motivating example" section of a talk has three sub-parts.
 
 First, explain the scientific problem and the data set.  Ideally you can do this in no more than 2-3 slides -- on occassion maybe more, but only if the problem is really complicated _and_ those complications are essential for understanding what comes next.  (Remember, keep it simple.)  For example, one slide might describe the scientific problem (text or pictures.  A second slide might provide some key facts about your data set. (This would be a reasonable a reasonable use of a bulleted list, so that people can read some facts about it as they listen to you describe stuff.)  Then a third slide might be a picture of the data.  You might not need all three.  
 
-Second, you should show the results from applying an off-the-shelf, existing method to this data.  If you can do this in one picture, great.  This is your "straw man": the thing your method should beat.  
+Second, you should show the results from applying an off-the-shelf, existing method to this data.  If you can do this in one picture, great.  This is your "straw man": the thing your method should beat.
 
-Finally, you should explain what's wrong/suboptimal with the off-the-shelf method.  This provides the rationale for asking your audience to pay attention when you introduce your new method.  Again, try to do this in one slide at most.
+In this context, you can also briefly mention other existing methods that might be appropriate for your problem, other than the one you've shown.  But this is mainly to telegraph to people that you've done your work.  You should explain that comprehensive benchmarks are the paper, and that your choice of Existing Method X on your motivating example is only intended to be illustrative.  
 
-You can also briefly mention other existing methods that might be appropriate for your problem, other than the one you've shown.  But this is mainly to telegraph to people that you've done your work.  You should explain that comprehensive benchmarks are the paper, and that your choice of Existing Method X on your motivating example is only intended to be illustrative.  
+Third and finally, you should explain what's wrong/suboptimal with the off-the-shelf method.  This tells the audience why they should pay attention when you introduce your new method.  Again, try to do this in one slide at most.
+
+### "I can't think of a motivating example where I can show all three of those things."   
+
+Then why, exactly, did you write your methods paper?  
+
+OK, I suppose the exception might be if you've invented a method for a brand new type of data-collection protocol in some scientific field, where there is no pre-existing state of the art for data analysis.  That's rare -- but if that describes your situation, then just explain the problem and give a concise summary of the statistical issues you found yourself needing to address.  
 
 ## Take-home messages
 
