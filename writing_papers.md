@@ -17,7 +17,7 @@ Before we talk about methods and applications papers separately, let's first tal
 
 In other words, a unicorn is a clear outlier along both the methodological and scientific axes.
 
-The overwhelming majority of papers are not unicorns.  I certainly have never written one.  In fact, when pressed, I can only think of a few examples, despite the fact that this is what every scientist I've ever talked to in some sense strives to write.  (Then again, I'm not a genetist or an astronomer or whatever; if you talk to them they'd probably be able to name unicorns in their field.)
+The overwhelming majority of papers are not unicorns.  I certainly have never written one.  In fact, when pressed, I can only think of a few examples, despite the fact that this is what every scientist I've ever talked to in some sense strives to write.  (Then again, I'm not a geneticist or an astronomer or whatever; if you talk to them they'd probably be able to name unicorns in their field.)
 
 Unicorns are usually sufficient (though not necessary) to make someone's scientific career.  You will probably never write a unicorn.  The rest of this guide will be about the other 99.999% of scientific papers.  
 
