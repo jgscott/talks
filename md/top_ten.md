@@ -2,7 +2,7 @@
 
 ### 1) Know your shit.
 
-It's OK to admit ignorance.  But if it becomes clear at some point during the talk that you are making claims about something you don't understand, you will lose the trust of everybody in the room who does, indeed, know your shit.  At that point you are basically toast.  
+It's OK to admit ignorance.  But if it becomes clear at some point during the talk that you are making claims about something you don't understand, you will lose the trust of the people in the room.  At that point you are basically toast.  
 
 ### 2) Know your audience.
 
